@@ -1,0 +1,44 @@
+*{
+    font-family: "Times New Roman", Times, serif;
+    
+}
+h1{ color:rgb(103, 23, 23);
+    font-size:70px ;
+    text-align:center ;
+}
+h2{ color: rgb(96, 24, 24);
+    font-size:40px ;
+}
+h3{ color: rgb(183, 125, 17);
+    font-size:30px;
+}
+p{ letter-spacing:0.25px ;
+    font-size:20px ;
+}
+header{
+    background-image:url(img.jpg) ;
+    margin: 1px 1px 1px 1px;
+    padding: 1px 10px 10px 10px;
+}
+nav{
+    background-color: rgba(0, 0, 0, 0.485);
+    color:rgb(96, 24, 24) ;
+}
+a:hover{
+    color:rgb(96, 24, 24) ;
+}
+.movie{
+    background-color:rgba(0, 0, 0, 0.174) ;
+}
+.movie p{
+    border:2px solid black ;
+    padding:10px 10px 10px 10px;
+    box-shadow: 10px 10px 5px black;
+}
+#contact{
+    background-color: rgba(0, 0, 0, 0.225);
+    text-align: center;
+}
+#about{
+    background-color: rgba(0, 0, 0, 0.325);
+}
